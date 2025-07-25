@@ -18,6 +18,8 @@ This project was completed during my internship with the Musculoskeletal Institu
 ## Files
 
 - [`presentation/DSBA 6400 Final Presentation OFFICIAL.pptx`](./presentation/DSBA%206400%20Final%20Presentation%20OFFICIAL.pptx): Final project presentation
+- 📄 [View the full presentation (PDF)](./presentation/DSBA_6400_Final_Presentation.pdf)
+
 
 ## Notes
 
